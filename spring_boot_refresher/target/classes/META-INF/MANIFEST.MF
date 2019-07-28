@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: sosnayak
+Build-Jdk: 10.0.1
+Implementation-Title: springboot-in-10-steps
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.nayak11.springboot.basics
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/springboot-
+ in-10-steps/
+Created-By: Maven Integration for Eclipse
+
